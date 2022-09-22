@@ -1,0 +1,5 @@
+
+dependencies {
+     project(':domain')
+     project(':persistence')
+}

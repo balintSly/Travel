@@ -1,0 +1,6 @@
+rootProject.name = 'Travel'
+
+include(':app')
+include(':domain')
+include(':persistence')
+include(':service')

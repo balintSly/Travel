@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/app/.gradle/
+/domain/.gradle/
+/persistence/.gradle/
+/service/.gradle/
