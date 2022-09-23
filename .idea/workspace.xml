@@ -5,50 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7a8b1-1425-4bce-b54a-c237f2901ce3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/persistence/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/gradlew.bat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +31,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Travel" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Travel" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -89,17 +45,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2F8FpkslSe2WBGlCcMxo9aU5Qvn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/git-obudai/Travel&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,7 +66,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663865988853</updated>
+      <workItem from="1663971132706" duration="595000" />
+      <workItem from="1663972093186" duration="2160000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

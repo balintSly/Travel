@@ -5,7 +5,7 @@ application{
    mainClassName=entryPoint
 }
 dependencies {
-    project(':domain')
-    project(':persistence')
-    project(':service')
+    implementation project(':domain')
+    implementation project(':persistence')
+    implementation project(':service')
 }
