@@ -1,13 +1,10 @@
-plugins {
-    id 'java'
-}
-
 allprojects {
     group 'travel'
     version '1.0-SNAPSHOT'
-
 }
+
 subprojects {
+    apply plugin: 'java'
 
     repositories {
         mavenCentral()
@@ -21,8 +18,5 @@ subprojects {
     test {
         useJUnitPlatform()
     }
+
 }
-
-
-
-

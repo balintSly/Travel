@@ -1,5 +1,5 @@
 
 dependencies {
-     project(':domain')
-     project(':persistence')
+     implementation project(':domain')
+     implementation project(':persistence')
 }
